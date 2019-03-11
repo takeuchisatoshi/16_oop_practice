@@ -22,3 +22,5 @@ if __name__ == '__main__':
     circle3 = Circle(input_number)
     print(circle3.area())
     print(circle3.circumference())
+
+    # print(circle.radius) サンプル
