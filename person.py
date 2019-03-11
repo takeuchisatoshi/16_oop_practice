@@ -9,7 +9,7 @@ class Person:
 
 if __name__ == '__main__':
     # 'クラス'を使うイメージ
-    bob = Person("Bob", 15)
+    bob = Person("Bob", 15) # インスタンス化
     print(bob.profile())  # 'Name: Bob, Age: 15' と出力されてほしい
 
     tom = Person("Tom", 24)
